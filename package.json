@@ -1,0 +1,25 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuadmahmudeshetu/node.js-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fuadmahmudeshetu/node.js-tutorial/issues"
+  },
+  "homepage": "https://github.com/fuadmahmudeshetu/node.js-tutorial#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lodash": "^4.17.21"
+  }
+}
